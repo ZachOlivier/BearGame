@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DannieZach_Game.CSharp.Plugins", "DannieZach_Game.CSharp.Plugins.csproj", "{D3B99B38-E6CD-58CE-07D7-DC8DEE3D7A77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DannieZach_Game.CSharp", "DannieZach_Game.CSharp.csproj", "{1A9C3FF0-769E-5537-C3DA-C731B2E5A656}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3B99B38-E6CD-58CE-07D7-DC8DEE3D7A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B99B38-E6CD-58CE-07D7-DC8DEE3D7A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B99B38-E6CD-58CE-07D7-DC8DEE3D7A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B99B38-E6CD-58CE-07D7-DC8DEE3D7A77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A9C3FF0-769E-5537-C3DA-C731B2E5A656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A9C3FF0-769E-5537-C3DA-C731B2E5A656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A9C3FF0-769E-5537-C3DA-C731B2E5A656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A9C3FF0-769E-5537-C3DA-C731B2E5A656}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

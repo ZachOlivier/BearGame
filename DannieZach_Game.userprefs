@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../ArcadeClass/Assets/scripts/enemySpawner.cs">
+    <Files>
+      <File FileName="../../ArcadeClass/Assets/scripts/pcScript.cs" Line="11" Column="20" />
+      <File FileName="../../ArcadeClass/Assets/scripts/enemySpawner.cs" Line="14" Column="28" />
+      <File FileName="../../ArcadeClass/Assets/scripts/e_hopperScript.cs" Line="123" Column="6" />
+      <File FileName="../../ArcadeClass/Assets/scripts/e_shieldScript.cs" Line="48" Column="4" />
+      <File FileName="../../ArcadeClass/Assets/scripts/e_walkerScript.cs" Line="39" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
